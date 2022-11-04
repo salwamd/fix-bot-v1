@@ -30,26 +30,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/_ctzhid'
+global.sig = '-'
 global.sgh = '-' //github
-global.sgc = 'https://chat.whatsapp.com/Iu9I1k8FnXW1sXT41XIF50' //group whatsapp
+global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = '-' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
+global.pdana = '082144607416' //dana
+global.povo = '082144607416' //ovo
+global.pgopay = '082144607416' //gopay
+global.plinkaja = '-' //link aja
+global.ppulsa = '-' //telkomsel
+global.ppulsa2 = '-' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628XXXXXXXXXX'
-global.nomorown = '628XXXXXXXXXX'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nomorbot = '6282144607416'
+global.nomorown = '6282144607416'
+global.namebot = 'j e g a'
+global.nameown = 'aga Langit'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,7 +58,7 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628XXXXXXXXXX', 'WH MODS DEV', true],
+  ['6282144607416', 'aga Langit', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
@@ -110,12 +110,12 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
+global.wm2 = '(⁠✯⁠ᴗ⁠✯⁠)AgaLangit (⁠✯⁠ᴗ⁠✯⁠)'
+global.wm3 = '⫹⫺ jega '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By JEGAA`
+global.author = '                「 AGA  あ」'
 
 
 /*============== LOGO ==============*/
@@ -149,7 +149,7 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 
 /*============== TEXT ==============*/
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
+global.wait = '```「▰▰▰▱▱▱▱▱▱▱」SABAR!!...```'
 global.eror = '```404 error```'
 
 /*=========== TYPE DOCUMENT ===========*/
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'JEGA'
+global.stickauth = `By ©AGA`
 
 global.multiplier = 38 // The higher, The harder levelup
 
